@@ -4,11 +4,20 @@ This contains the solutions to the assignments given in The School of AI - Exten
 
 1. [Deploy to AWS](01-Deploy-To-AWS/README.md)
 
-    Deployed it on [https://un64uvk2oi.execute-api.ap-south-1.amazonaws.com/dev/]( https://un64uvk2oi.execute-api.ap-south-1.amazonaws.com/dev/)
+    Deployed on [https://un64uvk2oi.execute-api.ap-south-1.amazonaws.com/dev/]( https://un64uvk2oi.execute-api.ap-south-1.amazonaws.com/dev/)
 
 2. [MobileNet - Training Custom IFO Dataset](02-MobileNet/index.html)
 
     Deployed on [https://floating-refuge-59093.herokuapp.com/](https://floating-refuge-59093.herokuapp.com/)
+
+3. [FaceRecognition-I - Implementing Face Swap !](03-FaceRecognition-I/)
+
+    Deployed on [https://master.d165apizgrkyke.amplifyapp.com/](https://master.d165apizgrkyke.amplifyapp.com/)
+
+4. [FaceRecognition-II - Deploying Face Recognizer Model !](04-FaceRecognition-II/index.html)
+
+    Deployed on [https://thetensorclan-web.herokuapp.com/](https://thetensorclan-web.herokuapp.com/)
+
 
 ## Our Amazing Team
 
